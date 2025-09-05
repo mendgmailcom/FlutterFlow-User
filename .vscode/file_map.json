@@ -1,0 +1,169 @@
+{
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "6752e88a4c36f3ab6a414f652e3c0cb4863cde85b77ab5ea73c0fae1c1db694e",
+    "original_checksum": "415688756283460139fa2817ca006943c32a3ceb940e28ef903ca9cef86a1b08"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "37e3f6ef79fb9e5fb416116610b94c113cb6594cdad0579690919ffaaf0188e9",
+    "original_checksum": "6989e88cd2fc97c019b63af0af73f9fa80198112ef1f5ee613855f725eea1e98"
+  },
+  "custom_service_card.dart": {
+    "old_identifier_name": "CustomServiceCard",
+    "new_identifier_name": "ServiceCardWidget",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "9237bc63ec6fb3a2cd66f98f9458b31a5208b186a0f877b760e35aac8aeb62aa"
+  },
+  "ui_actions.dart": {
+    "old_identifier_name": "uiActions",
+    "new_identifier_name": "UIActions",
+    "type": "A",
+    "is_deleted": false,
+    "original_checksum": "eb4bb638b5b34a8a5adee2e98ee578a86073178f345e42c82e1b57e12bcded67",
+    "current_checksum": "65777bc5266afc8bb3cf9a4a67bd6c88cf284efa7d5b7685365ca137eaa3e6c3"
+  },
+  "booking_actions.dart": {
+    "old_identifier_name": "bookingActions",
+    "new_identifier_name": "BookingActions",
+    "type": "A",
+    "is_deleted": false,
+    "original_checksum": "517c75b0c8e6c2e5175a9ca4cd6e8e06275549363383602eb919674a1735dd9f",
+    "current_checksum": "abd728ac5f4165bd4be654014a363d62ee56bfd1a84e87a203dd589e900b09fa"
+  },
+  "modern_app_bar.dart": {
+    "old_identifier_name": "ModernAppBar",
+    "new_identifier_name": "ModernAppBar",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "5dacecfaa5dff76b054f0fd96aae85aee4932f6fe1900c54b36cdc7fa25740f6"
+  },
+  "animated_service_card.dart": {
+    "old_identifier_name": "AnimatedServiceCard",
+    "new_identifier_name": "AnimatedServiceCard",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "a604a397d1ac519eb1a48d7d42bccb82875e889f6ec007fc15bd21d6757d4720"
+  },
+  "modern_bottom_nav.dart": {
+    "old_identifier_name": "ModernBottomNav",
+    "new_identifier_name": "ModernBottomNav",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "e73daec89ff0eef50b4063111f3202388aa0a3c3b7adb2fb47703d5e3f7c4ab4"
+  },
+  "modern_search_bar.dart": {
+    "old_identifier_name": "ModernSearchBar",
+    "new_identifier_name": "ModernSearchBar",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "37f2d477803e784c9ca609ce6892253df6e53461ede7df9dfdc1955219792a84"
+  },
+  "modern_booking_card.dart": {
+    "old_identifier_name": "ModernBookingCard",
+    "new_identifier_name": "ModernBookingCard",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "71b7ee7a7716cb11a706b90245ea79c7669c46f0fa3c7d6c06dc299b0066d09f"
+  },
+  "provider_profile_card.dart": {
+    "old_identifier_name": "ProviderProfileCard",
+    "new_identifier_name": "ProviderProfileCard",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "f336dbdaa423c3b1749f224d62c2500df18d83bb38e383a1f23fa47582b3c3fa"
+  },
+  "category_card.dart": {
+    "old_identifier_name": "CategoryCard",
+    "new_identifier_name": "CategoryCard",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "b5cd58f65f68bd01cad94ef2fd4053d2c55b419810d4922dd980cb0c5326fba2"
+  },
+  "wallet_card.dart": {
+    "old_identifier_name": "WalletCard",
+    "new_identifier_name": "WalletCard",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "80af56859d24fc11df53b10b260348e26d612e8ee4863b276b1a74e820c5c8a4"
+  },
+  "transaction_card.dart": {
+    "old_identifier_name": "TransactionCard",
+    "new_identifier_name": "TransactionCard",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "9335793c5e97352c76a4451b2ec401219974b6b0ba7ba967dbc12e4c5e781acf"
+  },
+  "profile_header.dart": {
+    "old_identifier_name": "ProfileHeader",
+    "new_identifier_name": "ProfileHeader",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "ab9a398b119e9cddde948f6417abab6bbd873633e46b6670cf2c107dd8d479ca"
+  },
+  "settings_item.dart": {
+    "old_identifier_name": "SettingsItem",
+    "new_identifier_name": "SettingsItem",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "61ae2866035b4dc78119f091c2180695afa996e28b22a8a80a4e41d72d2e62b6"
+  },
+  "chat_message.dart": {
+    "old_identifier_name": "ChatMessage",
+    "new_identifier_name": "ChatMessage",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "07b6dbe9167c2a2c6774b0d7a3d427a70a9116ae976ca9e3e1e468249f82e426"
+  },
+  "chat_input.dart": {
+    "old_identifier_name": "ChatInput",
+    "new_identifier_name": "ChatInput",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "e4970b2e5599cc149dba7792b4727ea89e9d99dab19de0565a332ad2e100092b"
+  },
+  "service_detail_header.dart": {
+    "old_identifier_name": "ServiceDetailHeader",
+    "new_identifier_name": "ServiceDetailHeader",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "0b3f51a16b5f1dbfc81a0bcd0debb90089a4031e61b52933c00da23838267e6e"
+  },
+  "realtime_utils.dart": {
+    "old_identifier_name": "realtimeUtils",
+    "new_identifier_name": "RealtimeUtils",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "8af1deb1f99deed72dd8210a2ecfa8e30b705ddc24caee4bf58711772ec7a406"
+  },
+  "auth_utils.dart": {
+    "old_identifier_name": "authUtils",
+    "new_identifier_name": "emailRegex",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "8bad32ba0de4a5ff74525f6b1d284175e30669bc374519ca982ed172ee21fdd3"
+  },
+  "booking_utils.dart": {
+    "old_identifier_name": "bookingUtils",
+    "new_identifier_name": "bookingUtils",
+    "type": "A",
+    "is_deleted": false,
+    "original_checksum": "d949f48f02b151da461d3b7181eb2a8c9ac24a5d7ef30abaf4dd82cb4f4159a5",
+    "current_checksum": "d949f48f02b151da461d3b7181eb2a8c9ac24a5d7ef30abaf4dd82cb4f4159a5"
+  },
+  "payment_utils.dart": {
+    "old_identifier_name": "paymentUtils",
+    "new_identifier_name": "paymentUtils",
+    "type": "A",
+    "is_deleted": false,
+    "original_checksum": "f904a3ca5bc589e404ed9dae9942136b57958c7eaad9aac4325a4426a93b2fa4",
+    "current_checksum": "f904a3ca5bc589e404ed9dae9942136b57958c7eaad9aac4325a4426a93b2fa4"
+  }
+}
